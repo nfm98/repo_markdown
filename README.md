@@ -1,5 +1,8 @@
-| Encabezado 1 | Encabezado 2 | Encabezado 3 |
-| ---------- | ---------- | ----------- |
-| renglón 1, columna 1 | renglón 1, columna 2 | renglón 1, columna 3 |
-| renglón 2, columna 1 | renglón 2, columna 2 | renglón 2, columna 3 |
-| renglón 3, columna 1 | renglón 3, columna 2 | renglón 3, columna 3 |
+| Parciales 3° 1° | Fecha |
+| ---------- | ---------- |
+| S.I.O. | 21/10|
+| Seguridad de los sistemas | 24/10 | 
+| Desarrollo Web | 25/10 |
+| Base de datos | 28/10 |
+| Derecho | 31/10 |
+| Redes y comunicaciones | 01/11 | 
