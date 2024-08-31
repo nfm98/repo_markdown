@@ -21,7 +21,7 @@ classDiagram
     }
 
     class Resultados {
-        +
+        
         +1° Rosario Central
         +2° Francia
         +3° Palmeiras
