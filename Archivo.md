@@ -4,6 +4,7 @@ classDiagram
         +Rosario Central
         +Boca Juniors
         +Racing Club
+        +Newells
     }
 
     class Brasileirao {
