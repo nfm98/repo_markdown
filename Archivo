@@ -1,28 +1,28 @@
 ```mermaid
 classDiagram
-    class Book {
-        +String title
-        +String author
-        +String isbn
+    class Liga Argentina {
+        +Rosario Central
+        +Boca Juniors
+        +Racing Club
         +boolean isAvailable()
     }
 
-    class Member {
-        +String name
-        +String memberId
+    class Brasileirao {
+        +Palmeiras
+        +Sao Paulo
         +borrowBook(Book book)
         +returnBook(Book book)
     }
 
-    class Librarian {
-        +String name
-        +String employeeId
+    class Liga MX {
+        +Chihuahuas de quetzalcoatl
+        +Pollitos de Bragarnik
         +addBook(Book book)
         +removeBook(Book book)
     }
 
     class Library {
-        +String name
+        +
         +List books
         +List members
         +List librarians
