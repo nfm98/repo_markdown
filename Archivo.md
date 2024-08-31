@@ -4,7 +4,6 @@ classDiagram
         +Rosario Central
         +Boca Juniors
         +Racing Club
-        +Newells
     }
 
     class Brasileirao {
@@ -28,6 +27,5 @@ classDiagram
         +3° Palmeiras
         +4° Boca Juniors
         +5° Sao Paulo
-        +19° Newells
 
     }
