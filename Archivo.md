@@ -18,6 +18,7 @@ classDiagram
         +Pollitos de Bragarnik
         +Toluca
       
+    }
 
     class Resultados {
         +
@@ -29,7 +30,3 @@ classDiagram
         +19° Newells
 
     }
-
-    Library "1" -- "contains" Book
-    Library "1" -- "registers" Member
-    Library "1" -- "manages" Librarian
